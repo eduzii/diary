@@ -1,0 +1,2 @@
+# diary
+Palvelinohjelmoinnin harjoitustyö
