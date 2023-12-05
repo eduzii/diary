@@ -1,4 +1,7 @@
 package Diary;
 
-public class DiaryEntryRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface DiaryEntryRepository extends JpaRepository<DiaryEntry, Long> {
+
 }
